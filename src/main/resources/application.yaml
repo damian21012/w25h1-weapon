@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: w25a1-weapon
+  data:
+    mongodb:
+      uri: ${MONGODB_URI}
